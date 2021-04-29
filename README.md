@@ -1,4 +1,4 @@
-# app
+# LogIn-SignUp
 
 ## Project setup
 ```
